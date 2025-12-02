@@ -56,4 +56,3 @@ export async function PATCH(req: Request) {
         return new Response(JSON.stringify({ error: 'Error al añadir comentario' }), { status: 500 });
     }
 }
-

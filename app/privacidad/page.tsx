@@ -7,7 +7,7 @@ export default function PrivacidadPage() {
 
                 <p>
                     En <strong>Sospechosos.me</strong> nos comprometemos a proteger la privacidad de nuestros usuarios.
-                    Esta política de privacidad describe cómo recopilamos, usamos y protegemos la información personal y los datos públicos proporcionados en nuestra plataforma.
+                    Esta política de privacidad describe cómo recopilamos, usamos y protegemos la información personal y los datos públicos proporcionados en nuestra plataforma de acuerdo con la LOPD (3/2018).
                 </p>
 
                 <h2 className="text-2xl font-semibold mt-4">Responsable del tratamiento</h2>
